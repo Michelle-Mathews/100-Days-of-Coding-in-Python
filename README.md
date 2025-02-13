@@ -4,7 +4,11 @@ This repository contains my solutions and projects for the 100 Days of Code chal
 
 ## About the Course
 
-This challenge is based on Angela Yu's comprehensive Python bootcamp on Udemy.  The course covers a wide range of Python topics, from the basics to more advanced concepts, and includes numerous projects to build practical skills.  You can find the course here: [Link to the Udemy Course (if you have it)]
+This challenge is based on Angela Yu's comprehensive Python bootcamp on Udemy.  The course covers a wide range of Python topics, from the basics to more advanced concepts, and includes numerous projects to build practical skills.  You can find the course here: [https://www.udemy.com/course/100-days-of-code/]
+
+## Disclaimer
+
+These projects are the result of my learning journey through Angela Yu's 100 Days of Code course.  I have focused on understanding the underlying concepts and implementing them in my own way.  While I may have referred to the course materials for guidance, I have made every effort to create original code and the code in this repository is my own creation, and I believe it reflects my understanding of the topics.
 
 ## My Progress
 
